@@ -1,69 +1,139 @@
-<!-- Profile Header with Typing Animation -->
+<!-- ========================= HEADER ========================= -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F772A2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Janhavi;A+Passionate+MERN+Stack+Developer;Full+Stack+Explorer+%F0%9F%9A%80;Tech+%2B+Creativity+Lover+%F0%9F%8E%A8" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Janhavi+Kashyap;SIH+2025+Winner+🏆;GSSoC+2026+Mentor+👩‍🏫;Full+Stack+MERN+Developer+🚀;Open+Source+Enthusiast+❤️" />
 </h1>
 
-<!-- Cute waving gif -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+<img src="https://komarev.com/ghpvc/?username=janhavi078&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/janhavi078?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/janhavi078?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🌟 About Me  
-- 🔭 I’m currently **building MERN stack projects**  
-- 🌱 Exploring **React, Node.js, Express, MongoDB**  
-- 🎯 Goal: **Become a top MERN developer & contribute to open-source**  
-- 💌 Reach me at **janhavikashyap54@gmail.com**  
-- 🎨 Fun fact: I love **painting, dancing & exploring new tech**  
+# 💫 About Me
+
+👩‍💻 Final Year Information Technology Student
+
+🏆 Smart India Hackathon (SIH) 2025 Winner
+
+👩‍🏫 GSSoC 2026 Mentor
+
+🌟 Google Student Ambassador
+
+🚀 President - G-Tech Hub
+
+💙 Open Source Contributor
+
+🌱 Currently learning DSA & System Design
+
+🎯 Goal: Software Development Engineer (SDE)
 
 ---
 
-### 🏆 GitHub Achievements  
+# 🏅 GSSoC 2026 Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=janhavi078&theme=radical&no-frame=true&row=1&column=7" alt="Trophies"/>
+
+<img src="./assets/gssoc-badge-role_mentor.png" width="110"/>
+<img src="./assets/gssoc-badge-rising_star.png" width="110"/>
+<img src="./assets/gssoc-badge-bounty_master.png" width="110"/>
+<img src="./assets/gssoc-badge-bounty_hunter.png" width="110"/>
+
+<br>
+
+<img src="./assets/gssoc-badge-discord_verified.png" width="110"/>
+<img src="./assets/gssoc-badge-profile_complete.png" width="110"/>
+<img src="./assets/gssoc-badge-point_scorer.png" width="110"/>
+<img src="./assets/gssoc-badge-first_steps.png" width="110"/>
+
 </p>
 
 ---
 
-### 🚀 Tech Stack  
+# 💻 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,mysql,git,github,bootstrap,tailwind,figma,postman,vscode&theme=light" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,mysql,git,github,docker,figma,postman,vscode&perline=8"/>
+
 </p>
 
 ---
 
-### 📊 GitHub Stats & Activity  
+# 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janhavi078&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janhavi078&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=janhavi078&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janhavi078&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=janhavi078&theme=tokyonight&hide_border=true" />
-</p>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com?user=janhavi078&theme=tokyonight&hide_border=true"/>
 
-### ✨ Fun Coding Vibe  
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding gif"/>
-</p>
-
----
-
-### 🤝 Connect with Me  
-<p align="center">
-  <a href="https://linkedin.com/in/janhavi kashyap" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:janhavikashyap54@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
 
+# 🏆 GitHub Trophies
+
 <p align="center">
-  ⭐ From <a href="https://github.com/janhavi078">janhavi078</a>
+
+<img src="https://github-profile-trophy.vercel.app/?username=janhavi078&theme=algolia&row=1&column=7&no-frame=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=janhavi078&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+⭐ Vehicle Price Prediction
+
+⭐ Collaborative Editor
+
+⭐ Telhan Sathi (SIH Winner)
+
+⭐ Personal Portfolio
+
+---
+
+# 🤝 Connect with Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:janhavikashyap54@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/janhavi078">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
 </p>
